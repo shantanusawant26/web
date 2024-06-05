@@ -1,0 +1,3 @@
+[submodule "vsWeb"]
+	path = vsWeb
+	url = https://github.com/rushis2003/vsTechWebsite.git
